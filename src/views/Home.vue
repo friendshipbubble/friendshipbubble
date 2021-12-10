@@ -7,6 +7,11 @@
       <div
         class="flex flex-col justify-center items-center bg-white p-5 md:p-10 rounded-xl shadow-lg"
       >
+        <img
+          src="../assets/logo.png"
+          alt="Friendship Bubble Logo"
+          class="rounded-full max-h-44 mb-6"
+        />
         <p class="text-lg md:text-xl">Welcome to</p>
         <h1 class="text-3xl md:text-4xl font-semibold">Friendship Bubble!</h1>
         <h2 class="text-sm md:text-base">We're glad you're here.</h2>
