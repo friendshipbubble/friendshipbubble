@@ -5,17 +5,21 @@
       class="flex justify-center items-center w-full min-h-screen"
     >
       <div
-        class="flex flex-col justify-center items-center bg-white p-5 md:p-10 rounded-xl shadow-lg"
+        class="flex flex-col justify-center items-center bg-white p-2 xs:p-5 md:p-10 rounded-xl shadow-lg"
       >
         <img
           src="../assets/logo.png"
           alt="Friendship Bubble Logo"
-          class="rounded-full max-h-44 mb-6"
+          class="rounded-full max-h-24 xs:max-h-32 md:max-h-44 mb-6"
         />
-        <p class="text-lg md:text-xl">Welcome to</p>
-        <h1 class="text-3xl md:text-4xl font-semibold">Friendship Bubble!</h1>
-        <h2 class="text-sm md:text-base">We're glad you're here.</h2>
-        <div class="flex space-x-1">
+        <p class="text-base xs:text-lg md:text-xl text-center">Welcome to</p>
+        <h1 class="text-lg xs:text-2xl md:text-4xl font-semibold text-center">
+          Friendship Bubble!
+        </h1>
+        <h2 class="text-xs xs:text-base text-center">
+          We're glad you're here.
+        </h2>
+        <div class="flex space-x-1 mt-2">
           <a
             href="https://discord.gg/PC5cDtXUSg"
             target="_blank"
