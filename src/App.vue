@@ -1,21 +1,15 @@
 <template>
-  <h1>Welcome to the Friendship Bubble website!</h1>
+  <Home></Home>
 </template>
 
-<script>
-export default {
-  name: "App",
-  components: {},
-};
-</script>
+<script lang="ts">
+import { Options, Vue } from "vue-class-component";
+import Home from "./views/Home.vue";
 
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>
+@Options({
+  components: {
+    Home,
+  },
+})
+export default class App extends Vue {}
+</script>
