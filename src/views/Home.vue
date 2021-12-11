@@ -59,11 +59,14 @@
       id="sectionInfo"
       class="flex flex-col items-center py-12 px-3 bg-blue-300"
     >
-      <h2 class="text-4xl text-center text-white font-semibold">Informatie</h2>
+      <h3 class="font-semibold text-center text-white text-3xl">
+        Work in progress, kom binnenkort nog eens kijken!
+      </h3>
+      <!-- <h2 class="text-4xl text-center text-white font-semibold">Informatie</h2>
       <p class="text-xl text-center text-white">
         Informatie over Friendship Bubble!
-      </p>
-      <div class="container mx-auto">
+      </p> -->
+      <!-- <div class="container mx-auto">
         <div
           class="grid grid-cols-1 md:grid-cols-3 gap-3 max-w-6xl mx-auto mt-8"
         >
@@ -121,7 +124,7 @@
             </p>
           </div>
         </div>
-      </div>
+      </div> -->
     </div>
     <!-- Footer -->
     <div class="py-12 px-3 bg-gray-800 text-white">
