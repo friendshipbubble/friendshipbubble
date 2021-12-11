@@ -2,10 +2,10 @@
   <div>
     <div
       id="landingPage"
-      class="flex flex-col justify-center items-center w-full min-h-screen"
+      class="flex flex-col justify-center items-center w-full min-h-screen p-3"
     >
       <div
-        class="flex flex-col justify-center items-center bg-white p-2 xs:p-5 md:p-10 xl:p-24 rounded-xl shadow-lg"
+        class="flex flex-col justify-center items-center bg-white p-2 xs:p-5 md:p-10 xl:p-16 rounded-xl shadow-lg"
       >
         <!-- Logo -->
         <img
@@ -75,7 +75,7 @@
               In de Friendship Bubble worden veel spelletjes gespeeld met
               elkaar. We hebben hiervoor op onze Discord speciale categorieën
               gemaakt.<br />Enkele populaire spellen binnen de community zijn
-              DnD (Dungeons and Dragons) en Minecraft. Nu en dan wordt er ook
+              DnD (Dungeons and Dragons) en Minecraft. Zo nu en dan wordt er ook
               eens Catan gespeeld, maar met jou erbij misschien zelfs vaker!
             </p>
             <br />
