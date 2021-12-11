@@ -31,6 +31,7 @@
           <a
             href="https://discord.gg/PC5cDtXUSg"
             target="_blank"
+            rel="noopener noreferrer"
             style="color: #5865f2"
             ><font-awesome-icon :icon="['fab', 'discord']" size="lg"
           /></a>
@@ -38,6 +39,7 @@
           <a
             href="https://www.instagram.com/friendshipbubble"
             target="_blank"
+            rel="noopener noreferrer"
             style="color: #dd2a7b"
             ><font-awesome-icon :icon="['fab', 'instagram']" size="lg"
           /></a>
@@ -59,9 +61,9 @@
       id="sectionInfo"
       class="flex flex-col items-center py-12 px-3 bg-blue-300"
     >
-      <h3 class="font-semibold text-center text-white text-3xl">
+      <h1 class="font-semibold text-center text-white text-3xl">
         Work in progress, kom binnenkort nog eens kijken!
-      </h3>
+      </h1>
       <!-- <h2 class="text-4xl text-center text-white font-semibold">Informatie</h2>
       <p class="text-xl text-center text-white">
         Informatie over Friendship Bubble!
@@ -137,6 +139,7 @@
               <a
                 href="https://linktr.ee/laurigiepmans"
                 target="_blank"
+                rel="noopener noreferrer"
                 class="text-blue-500"
                 >Lauri Giepmans</a
               >
@@ -152,6 +155,7 @@
               <a
                 href="https://jonasclaes.be/"
                 target="_blank"
+                rel="noopener noreferrer"
                 class="text-blue-500"
                 >Jonas Claes</a
               >.<br />Design in samenspraak met de Friendship Bubble community.
@@ -159,6 +163,7 @@
               <a
                 href="https://www.netlify.com/"
                 target="_blank"
+                rel="noopener noreferrer"
                 class="text-blue-500"
                 >Netlify</a
               >.<br />Deze website is volledig open-source en gemaakt met Vue 3,
@@ -166,6 +171,7 @@
               <a
                 href="https://github.com/friendshipbubble/friendshipbubble"
                 target="_blank"
+                rel="noopener noreferrer"
                 class="text-blue-500"
                 >hier</a
               >
